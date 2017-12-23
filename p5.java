@@ -8,7 +8,7 @@ public class p5 {
         System.out.print(output);
     }
 
-    public static String longestPalindrome(String s) {
+    public static String longestPalindrome(String s)
         int len = s.length();
         if (len==1) {
             return s;
