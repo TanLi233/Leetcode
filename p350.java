@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class leetcode350 {
+public class p350 {
     public static void main(String[] args) {
         int[] nums1 = new int[] { -2147483648, 1, 2, 3 };
         int[] nums2 = new int[] { 1, -2147483648, -2147483648 };
